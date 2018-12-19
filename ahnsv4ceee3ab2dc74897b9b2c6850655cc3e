@@ -1,0 +1,2157 @@
+{
+	"ID": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+	"Root": {
+		"alive": true,
+		"content": [
+			"fe4fd70f-ff43-4d71-a673-66083cfb9210",
+			"98a0a016-d2f4-45bb-a865-b043f83cf85b",
+			"be5e8c95-de86-4cf5-8af0-c95c2b0acc40",
+			"1aada53f-667c-4c63-8dff-270d9400a849",
+			"3ceb9f9c-ad01-4b43-90d5-fab3defd9fca",
+			"385352da-3147-4adb-bfdb-48a565848439",
+			"c95dc2da-4648-489d-87d6-742aa6fdbd3e",
+			"9cdb1156-1278-43f6-a510-81f2d8c936cc",
+			"789db278-b12f-4253-9a26-9016557f0bda",
+			"8c02eb67-2607-4d65-ad96-cc9fe70f36b1",
+			"517d8774-badb-43c3-9ec3-96722c8b154e",
+			"fde5022b-dc66-4fe7-a2d1-4691ccb14ae8",
+			"dc40eda6-5615-49f3-96b3-b7e7a2b9e2fc",
+			"53f3f08d-2c53-4225-ab49-a221d4196b96",
+			"d3aa4cd4-cc37-4d89-8d6d-65dee9cb480f",
+			"cddc963c-d047-4a17-9ee5-7d069fc50290",
+			"39bff828-0299-43de-abfe-73efc31fa76f",
+			"21436376-5952-4e78-85a6-5ebf35fd050d",
+			"c5c61c7e-6c6e-4a08-b043-27a164c5ade7",
+			"cdb40b04-682d-4437-a056-3ae8c5a2b2a7",
+			"0d3d7cdc-eb6a-4d0e-9d8d-c9cd614f0c0b",
+			"c2eca679-3352-4140-b58d-5244b041412e",
+			"4fd5733b-7794-4dd1-8ceb-2d521a6f1d72",
+			"4b327587-6da4-46ba-8073-b93729363f72",
+			"a0febbab-cc5a-4a86-a97f-e5440a63012a",
+			"1a68d892-46db-49ec-9321-d5a560d1bef2",
+			"550d34b7-30d7-4c7d-8032-67cbedbabb67",
+			"09fbd99a-c6c6-4c29-ba3e-8add98f46011",
+			"adcc2c18-246f-44f4-a808-0ab6c1a3dfef",
+			"8ce151be-b52b-482a-9053-b70dc6bfa196",
+			"cf5928c1-3f17-4615-b6f4-9c7270859a3f",
+			"0ede5b27-2273-4650-a08c-0404894a94e4",
+			"cdfcf9ff-9333-4043-ad60-37573807b0c3",
+			"c3db9f87-c88f-4b42-adb9-b7959ba10e16",
+			"2ed47fe8-e779-458e-ae24-71a1a23b2192",
+			"9cf3c77b-4c3f-4a6e-aecc-88aab39e5e9a",
+			"4705bf37-d23a-416c-869e-131fa99e665d",
+			"11484959-9916-4089-b07a-f46b92a5f011",
+			"19a2aaf2-4de3-4e8d-8faa-1c2a1a9a39bc",
+			"b2691885-d8c6-45a8-ac62-d5db72f64287",
+			"c581a286-c852-48e1-9a5e-1d937633cfb1",
+			"5bca369e-2fe2-43e3-97e8-413927f7a60d",
+			"79c391f3-2514-4684-9984-a5dfbc290e22",
+			"15e5967d-8cf8-44f3-9a3c-99796e0504d9",
+			"5158cf80-6801-41e9-a3da-f4b3d7af0636",
+			"a7754d5b-8899-434f-882d-4fd336771408",
+			"d8c857b0-57e2-4100-aa33-9bb424706eaa",
+			"3a6a7224-ce6f-485c-aed9-9095304a0675",
+			"2dd264a1-1d0f-4beb-83bb-a94a9898d617"
+		],
+		"copied_from": "20f83114-dc15-488e-b568-4c8c29821a4b",
+		"created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+		"created_time": 1545036238038,
+		"format": {
+			"page_icon": "💪",
+			"page_cover": "/images/page-cover/gradients_8.png",
+			"block_locked": false,
+			"block_locked_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+			"page_full_width": false,
+			"page_small_text": false,
+			"page_cover_position": 0.4212
+		},
+		"id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+		"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+		"last_edited_time": 1545119603185,
+		"parent_id": "36862062-3da9-406a-9e66-ed4079662654",
+		"parent_table": "collection",
+		"permissions": [
+			{
+				"role": "reader",
+				"type": "public_permission"
+			}
+		],
+		"properties": {
+			"prop_1": [
+				[
+					"‣",
+					[
+						[
+							"u",
+							"f2b7c3b6-6465-470d-990c-1676795ae0b7"
+						]
+					]
+				]
+			],
+			"title": [
+				[
+					"2018년 회고록 by 구닌"
+				]
+			]
+		},
+		"type": "page",
+		"version": 368,
+		"content_resolved": [
+			{
+				"alive": true,
+				"created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+				"created_time": 1545036238038,
+				"format": {
+					"block_color": "gray"
+				},
+				"id": "fe4fd70f-ff43-4d71-a673-66083cfb9210",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545036350678,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"이 글은 notion으로 작성되었습니다."
+						]
+					]
+				},
+				"type": "text",
+				"version": 58,
+				"inline_content": [
+					{
+						"Text": "이 글은 notion으로 작성되었습니다."
+					}
+				],
+				"format_text": {
+					"block_color": "gray"
+				}
+			},
+			{
+				"alive": true,
+				"created_by": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+				"created_time": 1545036238038,
+				"format": {
+					"block_color": "gray"
+				},
+				"id": "98a0a016-d2f4-45bb-a865-b043f83cf85b",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545036461025,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Source:  "
+						],
+						[
+							"2018년 회고록 by 구닌",
+							[
+								[
+									"a",
+									"https://www.notion.so/taebae/2018-by-4ceee3ab2dc74897b9b2c6850655cc3e#98a0a016d2f445bba865b043f83cf85b"
+								]
+							]
+						]
+					]
+				},
+				"type": "text",
+				"version": 151,
+				"inline_content": [
+					{
+						"Text": "Source:  "
+					},
+					{
+						"Text": "2018년 회고록 by 구닌",
+						"Link": "https://www.notion.so/taebae/2018-by-4ceee3ab2dc74897b9b2c6850655cc3e#98a0a016d2f445bba865b043f83cf85b"
+					}
+				],
+				"format_text": {
+					"block_color": "gray"
+				}
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545038927789,
+				"id": "be5e8c95-de86-4cf5-8af0-c95c2b0acc40",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038927789,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "text",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545036758776,
+				"id": "1aada53f-667c-4c63-8dff-270d9400a849",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038930102,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"2018년도 거의 끝나가는 시점에서 다들 하는 회고록으로 블로그를 시작해 볼까 한다...",
+							[
+								[
+									"b"
+								]
+							]
+						]
+					]
+				},
+				"type": "text",
+				"version": 154,
+				"inline_content": [
+					{
+						"Text": "2018년도 거의 끝나가는 시점에서 다들 하는 회고록으로 블로그를 시작해 볼까 한다...",
+						"AttrFlags": 1
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037096123,
+				"id": "3ceb9f9c-ad01-4b43-90d5-fab3defd9fca",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545037339760,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Prologue (or FYI)"
+						]
+					]
+				},
+				"type": "header",
+				"version": 46,
+				"inline_content": [
+					{
+						"Text": "Prologue (or FYI)"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037786660,
+				"id": "385352da-3147-4adb-bfdb-48a565848439",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545037786660,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "divider",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037099773,
+				"id": "c95dc2da-4648-489d-87d6-742aa6fdbd3e",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038612896,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"2017.10월에 입대해서 2018년 12월 17일 현재 "
+						],
+						[
+							"상병 5호봉",
+							[
+								[
+									"i"
+								]
+							]
+						],
+						[
+							"(!)으로 군복무 중이다. "
+						],
+						[
+							"특기는 30010 프로그램작성병!",
+							[
+								[
+									"b"
+								]
+							]
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 250,
+				"inline_content": [
+					{
+						"Text": "2017.10월에 입대해서 2018년 12월 17일 현재 "
+					},
+					{
+						"Text": "상병 5호봉",
+						"AttrFlags": 4
+					},
+					{
+						"Text": "(!)으로 군복무 중이다. "
+					},
+					{
+						"Text": "특기는 30010 프로그램작성병!",
+						"AttrFlags": 1
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037342050,
+				"id": "9cdb1156-1278-43f6-a510-81f2d8c936cc",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545037387675,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"사지방과 사무실에서 열심히 코딩하고 있지만 현실적으로 코딩하기 정말 어렵다"
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 143,
+				"inline_content": [
+					{
+						"Text": "사지방과 사무실에서 열심히 코딩하고 있지만 현실적으로 코딩하기 정말 어렵다"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037387687,
+				"id": "789db278-b12f-4253-9a26-9016557f0bda",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545037819335,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"이것저것 많이 시도를 하려고 했었다... 돌아보면 하나만 팔걸 후회가 되기도 하지만 잘 한거 같기도 하다..."
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 251,
+				"inline_content": [
+					{
+						"Text": "이것저것 많이 시도를 하려고 했었다... 돌아보면 하나만 팔걸 후회가 되기도 하지만 잘 한거 같기도 하다..."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037819627,
+				"id": "8c02eb67-2607-4d65-ad96-cc9fe70f36b1",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038387099,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"열악한 개발 환경에서 개발하려니 현자 타임이 오는 게 한 두번이 아니었다."
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 91,
+				"inline_content": [
+					{
+						"Text": "열악한 개발 환경에서 개발하려니 현자 타임이 오는 게 한 두번이 아니었다."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545038387320,
+				"id": "517d8774-badb-43c3-9ec3-96722c8b154e",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038471770,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"하지만 부대 내에 열심히 하는/잘 하는 분들을 보고 동기 부여를 계속 해왔었다."
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 137,
+				"inline_content": [
+					{
+						"Text": "하지만 부대 내에 열심히 하는/잘 하는 분들을 보고 동기 부여를 계속 해왔었다."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545040152550,
+				"id": "fde5022b-dc66-4fe7-a2d1-4691ccb14ae8",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040180834,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"코딩 이외에도 군생활 쉽고 재밌게 하자는 게 내 목표이다."
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 89,
+				"inline_content": [
+					{
+						"Text": "코딩 이외에도 군생활 쉽고 재밌게 하자는 게 내 목표이다."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037059065,
+				"id": "dc40eda6-5615-49f3-96b3-b7e7a2b9e2fc",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545044944755,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Github Review"
+						]
+					]
+				},
+				"type": "header",
+				"version": 100,
+				"inline_content": [
+					{
+						"Text": "Github Review"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037777475,
+				"id": "53f3f08d-2c53-4225-ab49-a221d4196b96",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545037777475,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "divider",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037651724,
+				"id": "d3aa4cd4-cc37-4d89-8d6d-65dee9cb480f",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040952853,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Language Use History"
+						]
+					]
+				},
+				"type": "sub_header",
+				"version": 99,
+				"inline_content": [
+					{
+						"Text": "Language Use History"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037728084,
+				"file_ids": [
+					"0dcaadc3-5bac-4fae-a371-b9405b5d13c9"
+				],
+				"format": {
+					"block_width": 528,
+					"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dcaadc3-5bac-4fae-a371-b9405b5d13c9/Overview.jpg",
+					"block_full_width": false,
+					"block_page_width": true,
+					"block_aspect_ratio": 0.4910071942446043,
+					"block_preserve_scale": true
+				},
+				"id": "cddc963c-d047-4a17-9ee5-7d069fc50290",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038748651,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"caption": [
+						[
+							"\u003cFigure 1\u003e Github Commit Graph by Language (src: "
+						],
+						[
+							"http://sourcerer.io/ahnsv",
+							[
+								[
+									"a",
+									"http://sourcerer.io/ahnsv"
+								]
+							]
+						],
+						[
+							")"
+						]
+					],
+					"source": [
+						[
+							"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dcaadc3-5bac-4fae-a371-b9405b5d13c9/Overview.jpg"
+						]
+					]
+				},
+				"type": "image",
+				"version": 267,
+				"source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dcaadc3-5bac-4fae-a371-b9405b5d13c9/Overview.jpg",
+				"image_url": "https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0dcaadc3-5bac-4fae-a371-b9405b5d13c9%2FOverview.jpg",
+				"format_image": {
+					"block_aspect_ratio": 0.4910071942446043,
+					"block_full_width": false,
+					"block_page_width": true,
+					"block_preserve_scale": true,
+					"block_width": 528,
+					"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dcaadc3-5bac-4fae-a371-b9405b5d13c9/Overview.jpg",
+					"image_url": "https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0dcaadc3-5bac-4fae-a371-b9405b5d13c9%2FOverview.jpg"
+				}
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037992111,
+				"id": "39bff828-0299-43de-abfe-73efc31fa76f",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038496476,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"전반적으로 프론트엔드 쪽 토이프로젝트를 많이 진행했었다. "
+						]
+					]
+				},
+				"type": "text",
+				"version": 569,
+				"inline_content": [
+					{
+						"Text": "전반적으로 프론트엔드 쪽 토이프로젝트를 많이 진행했었다. "
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545038482150,
+				"id": "21436376-5952-4e78-85a6-5ebf35fd050d",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038484596,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"2018년 초반에는 자대 전입와서 처음으로 프로젝트를 진행하면서, materialize css를 이용해서 기존에 있던 군용 기상 앱을 리뉴얼했었다. "
+						]
+					]
+				},
+				"type": "text",
+				"version": 7,
+				"inline_content": [
+					{
+						"Text": "2018년 초반에는 자대 전입와서 처음으로 프로젝트를 진행하면서, materialize css를 이용해서 기존에 있던 군용 기상 앱을 리뉴얼했었다. "
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545038484596,
+				"id": "c5c61c7e-6c6e-4a08-b043-27a164c5ade7",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038484596,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"HTML+CSS 삽질 덕분에 다른 프로젝트에 CSS쓸때 조금 더 빠르게 진행할 수가 있었다. 이때 좀 CSS라이브러리는 최대한 지양해야겠다고 느꼈었다."
+						]
+					]
+				},
+				"type": "text",
+				"version": 5,
+				"inline_content": [
+					{
+						"Text": "HTML+CSS 삽질 덕분에 다른 프로젝트에 CSS쓸때 조금 더 빠르게 진행할 수가 있었다. 이때 좀 CSS라이브러리는 최대한 지양해야겠다고 느꼈었다."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545038568124,
+				"id": "cdb40b04-682d-4437-a056-3ae8c5a2b2a7",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038697385,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"그리고 중반에는 같은 팀 선임이 함수형 프로그래밍에 대해서 소개시켜줘서 "
+						],
+						[
+							"Haskell",
+							[
+								[
+									"c"
+								]
+							]
+						],
+						[
+							"을 잠깐 했었고 (커밋에는 왜 없지...), 자바스크립트를 함수형으로 하려는 노력들을 했었다. "
+						]
+					]
+				},
+				"type": "text",
+				"version": 243,
+				"inline_content": [
+					{
+						"Text": "그리고 중반에는 같은 팀 선임이 함수형 프로그래밍에 대해서 소개시켜줘서 "
+					},
+					{
+						"Text": "Haskell",
+						"AttrFlags": 2
+					},
+					{
+						"Text": "을 잠깐 했었고 (커밋에는 왜 없지...), 자바스크립트를 함수형으로 하려는 노력들을 했었다. "
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545038662669,
+				"format": {
+					"block_color": "yellow_background"
+				},
+				"id": "0d3d7cdc-eb6a-4d0e-9d8d-c9cd614f0c0b",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545044854376,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"여전히 함수형 패러다임으로 중요 로직들을 설계하려고 하지만, 아직까지 눈에 띄게 좋은 점을 모르겠다. 차라리 함수형으로 설계하는 데 비용이 더 드는 듯..."
+						]
+					]
+				},
+				"type": "text",
+				"version": 323,
+				"inline_content": [
+					{
+						"Text": "여전히 함수형 패러다임으로 중요 로직들을 설계하려고 하지만, 아직까지 눈에 띄게 좋은 점을 모르겠다. 차라리 함수형으로 설계하는 데 비용이 더 드는 듯..."
+					}
+				],
+				"format_text": {
+					"block_color": "yellow_background"
+				}
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545038081614,
+				"id": "c2eca679-3352-4140-b58d-5244b041412e",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545038303595,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "text",
+				"version": 7
+			},
+			{
+				"alive": true,
+				"content": [
+					"1ca1b607-f96b-4da4-a996-7b885e6510aa",
+					"bf8ffb9e-8839-4e50-87f3-d6a27a129158"
+				],
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545039056543,
+				"id": "4fd5733b-7794-4dd1-8ceb-2d521a6f1d72",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545039056543,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "column_list",
+				"version": 6,
+				"content_resolved": [
+					{
+						"alive": true,
+						"content": [
+							"b88e97e8-edb1-4d7d-8ebf-1eff412da10e"
+						],
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545039056543,
+						"format": {
+							"column_ratio": 0.6875
+						},
+						"id": "1ca1b607-f96b-4da4-a996-7b885e6510aa",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545039453730,
+						"parent_id": "4fd5733b-7794-4dd1-8ceb-2d521a6f1d72",
+						"parent_table": "block",
+						"type": "column",
+						"version": 20,
+						"content_resolved": [
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545037923835,
+								"file_ids": [
+									"21f81416-5a7b-4031-a7b8-ccc1f422d7a1"
+								],
+								"format": {
+									"block_width": 576,
+									"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21f81416-5a7b-4031-a7b8-ccc1f422d7a1/languages.jpg",
+									"block_full_width": false,
+									"block_page_width": true,
+									"block_aspect_ratio": 0.7001718213058419,
+									"block_preserve_scale": true
+								},
+								"id": "b88e97e8-edb1-4d7d-8ebf-1eff412da10e",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545039340045,
+								"parent_id": "1ca1b607-f96b-4da4-a996-7b885e6510aa",
+								"parent_table": "block",
+								"properties": {
+									"caption": [
+										[
+											"\u003cFigure 2\u003e Languages (src: "
+										],
+										[
+											"https://sourcerer.io/ahnsv",
+											[
+												[
+													"a",
+													"https://sourcerer.io/ahnsv"
+												]
+											]
+										],
+										[
+											")"
+										]
+									],
+									"source": [
+										[
+											"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21f81416-5a7b-4031-a7b8-ccc1f422d7a1/languages.jpg"
+										]
+									]
+								},
+								"type": "image",
+								"version": 112,
+								"source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21f81416-5a7b-4031-a7b8-ccc1f422d7a1/languages.jpg",
+								"image_url": "https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F21f81416-5a7b-4031-a7b8-ccc1f422d7a1%2Flanguages.jpg",
+								"format_image": {
+									"block_aspect_ratio": 0.7001718213058419,
+									"block_full_width": false,
+									"block_page_width": true,
+									"block_preserve_scale": true,
+									"block_width": 576,
+									"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21f81416-5a7b-4031-a7b8-ccc1f422d7a1/languages.jpg",
+									"image_url": "https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F21f81416-5a7b-4031-a7b8-ccc1f422d7a1%2Flanguages.jpg"
+								}
+							}
+						],
+						"format_column": {
+							"column_ratio": 0.6875
+						}
+					},
+					{
+						"alive": true,
+						"content": [
+							"cf03cccc-cfdb-4c18-ba5f-c6d008a501cc",
+							"c9b7d166-cab4-4744-bed4-4bb136db2ea8"
+						],
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545039056543,
+						"format": {
+							"column_ratio": 0.3125
+						},
+						"id": "bf8ffb9e-8839-4e50-87f3-d6a27a129158",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545039581035,
+						"parent_id": "4fd5733b-7794-4dd1-8ceb-2d521a6f1d72",
+						"parent_table": "block",
+						"type": "column",
+						"version": 26,
+						"content_resolved": [
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545038319618,
+								"id": "cf03cccc-cfdb-4c18-ba5f-c6d008a501cc",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545039943026,
+								"parent_id": "bf8ffb9e-8839-4e50-87f3-d6a27a129158",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"다음으로 가장 많이 썼던 언어는 "
+										],
+										[
+											"Go 언어",
+											[
+												[
+													"b"
+												]
+											]
+										],
+										[
+											"였다. 백엔드쪽 지식이라곤 거의 전무한 것과 다름없었던 나에게 흥미로운 문법과 직관적인 API 구조와 모듈 관리 등이 재밌었다. "
+										]
+									]
+								},
+								"type": "text",
+								"version": 726,
+								"inline_content": [
+									{
+										"Text": "다음으로 가장 많이 썼던 언어는 "
+									},
+									{
+										"Text": "Go 언어",
+										"AttrFlags": 1
+									},
+									{
+										"Text": "였다. 백엔드쪽 지식이라곤 거의 전무한 것과 다름없었던 나에게 흥미로운 문법과 직관적인 API 구조와 모듈 관리 등이 재밌었다. "
+									}
+								]
+							},
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545039432158,
+								"id": "c9b7d166-cab4-4744-bed4-4bb136db2ea8",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545039960168,
+								"parent_id": "bf8ffb9e-8839-4e50-87f3-d6a27a129158",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"Gin과 gorilla 라이브러리들로 백엔드를 구성하고 HTML파일을 serve하는 연습도 많이 했고, 크롤링도 몇번 연습했다. 덕분에 Python으로 크롤링 예제들을 만들때도 도움이 많이 되었다. "
+										]
+									]
+								},
+								"type": "text",
+								"version": 64,
+								"inline_content": [
+									{
+										"Text": "Gin과 gorilla 라이브러리들로 백엔드를 구성하고 HTML파일을 serve하는 연습도 많이 했고, 크롤링도 몇번 연습했다. 덕분에 Python으로 크롤링 예제들을 만들때도 도움이 많이 되었다. "
+									}
+								]
+							}
+						],
+						"format_column": {
+							"column_ratio": 0.3125
+						}
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545039441686,
+				"id": "4b327587-6da4-46ba-8073-b93729363f72",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040773798,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"또, Docker도 몇 번 써봤었는데 아직 활용하기에는 개발 환경이나 관련 지식이나 부족한 거 같다. 하지만 Docker 특유의 "
+						],
+						[
+							"혁신적임",
+							[
+								[
+									"b"
+								]
+							]
+						],
+						[
+							"은 느끼기에 충분했다. AWS에도 손을 댔는데 "
+						],
+						[
+							"go-aws-sdk",
+							[
+								[
+									"c"
+								]
+							]
+						],
+						[
+							"로 DynamoDB와 EC2, S3에 연결해서 정보를 받아오는 연습들을 했었다. secretkey 관리하는 방법을 배웠다. AWS는 앞으로도 최대한 많이 써보려고 한다... 아니면 NCloud."
+						]
+					]
+				},
+				"type": "text",
+				"version": 328,
+				"inline_content": [
+					{
+						"Text": "또, Docker도 몇 번 써봤었는데 아직 활용하기에는 개발 환경이나 관련 지식이나 부족한 거 같다. 하지만 Docker 특유의 "
+					},
+					{
+						"Text": "혁신적임",
+						"AttrFlags": 1
+					},
+					{
+						"Text": "은 느끼기에 충분했다. AWS에도 손을 댔는데 "
+					},
+					{
+						"Text": "go-aws-sdk",
+						"AttrFlags": 2
+					},
+					{
+						"Text": "로 DynamoDB와 EC2, S3에 연결해서 정보를 받아오는 연습들을 했었다. secretkey 관리하는 방법을 배웠다. AWS는 앞으로도 최대한 많이 써보려고 한다... 아니면 NCloud."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545039480595,
+				"id": "a0febbab-cc5a-4a86-a97f-e5440a63012a",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545039854061,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"하반기에는 Typescript에 빠져서 "
+						],
+						[
+							"Typescript없이는 살 수 없는 몸이 되어버렸다.",
+							[
+								[
+									"s"
+								]
+							]
+						],
+						[
+							" Static Typing과 자바스크립트에서 "
+						],
+						[
+							"console.log",
+							[
+								[
+									"c"
+								]
+							]
+						],
+						[
+							"로 잡기 어려운 버그들을 컴파일 타임에서 잡을 수 있다는 데다가, ES6 문법이 대부분이어서 접근성이 좋았고, vue나 react 같은 라이브러리들과도 케미가 좋다고 생각했다. "
+						]
+					]
+				},
+				"type": "text",
+				"version": 481,
+				"inline_content": [
+					{
+						"Text": "하반기에는 Typescript에 빠져서 "
+					},
+					{
+						"Text": "Typescript없이는 살 수 없는 몸이 되어버렸다.",
+						"AttrFlags": 8
+					},
+					{
+						"Text": " Static Typing과 자바스크립트에서 "
+					},
+					{
+						"Text": "console.log",
+						"AttrFlags": 2
+					},
+					{
+						"Text": "로 잡기 어려운 버그들을 컴파일 타임에서 잡을 수 있다는 데다가, ES6 문법이 대부분이어서 접근성이 좋았고, vue나 react 같은 라이브러리들과도 케미가 좋다고 생각했다. "
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545039857601,
+				"id": "1a68d892-46db-49ec-9321-d5a560d1bef2",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040123992,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"가장 큰 장점은 vscode와 같이 사용했을 때 엄청난 시너지가 나왔다. 자동 type/code suggestion과 snippets 등등 신세계를 보여주었다..."
+						]
+					]
+				},
+				"type": "text",
+				"version": 337,
+				"inline_content": [
+					{
+						"Text": "가장 큰 장점은 vscode와 같이 사용했을 때 엄청난 시너지가 나왔다. 자동 type/code suggestion과 snippets 등등 신세계를 보여주었다..."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545040130490,
+				"id": "550d34b7-30d7-4c7d-8032-67cbedbabb67",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040190791,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"나중에 쓰겠지만 typescript 덕에 군생활에 있을 거라고 생각지도 못한 일이 벌어졌다."
+						]
+					]
+				},
+				"type": "text",
+				"version": 127,
+				"inline_content": [
+					{
+						"Text": "나중에 쓰겠지만 typescript 덕에 군생활에 있을 거라고 생각지도 못한 일이 벌어졌다."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545037539480,
+				"id": "09fbd99a-c6c6-4c29-ba3e-8add98f46011",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040957509,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Commit History"
+						]
+					]
+				},
+				"type": "sub_header",
+				"version": 83,
+				"inline_content": [
+					{
+						"Text": "Commit History"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545036414577,
+				"id": "adcc2c18-246f-44f4-a808-0ab6c1a3dfef",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545036414577,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "link_to_page",
+				"version": 10
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545036729782,
+				"file_ids": [
+					"050b48d0-3294-417d-91b1-3c1bb4ca6519"
+				],
+				"format": {
+					"block_width": 720,
+					"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/050b48d0-3294-417d-91b1-3c1bb4ca6519/Screenshot2018-12-17at17.51.50.jpg",
+					"block_full_width": false,
+					"block_page_width": false,
+					"block_aspect_ratio": 0.7138364779874213,
+					"block_preserve_scale": true
+				},
+				"id": "8ce151be-b52b-482a-9053-b70dc6bfa196",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040221124,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"caption": [
+						[
+							"\u003cFigure 3\u003e Isometric Chart View - ahnsv \"군인인데 ㅅㅌㅊ ㅇㅈ?\""
+						]
+					],
+					"source": [
+						[
+							"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/050b48d0-3294-417d-91b1-3c1bb4ca6519/Screenshot2018-12-17at17.51.50.jpg"
+						]
+					]
+				},
+				"type": "image",
+				"version": 168,
+				"source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/050b48d0-3294-417d-91b1-3c1bb4ca6519/Screenshot2018-12-17at17.51.50.jpg",
+				"image_url": "https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F050b48d0-3294-417d-91b1-3c1bb4ca6519%2FScreenshot2018-12-17at17.51.50.jpg",
+				"format_image": {
+					"block_aspect_ratio": 0.7138364779874213,
+					"block_full_width": false,
+					"block_page_width": false,
+					"block_preserve_scale": true,
+					"block_width": 720,
+					"display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/050b48d0-3294-417d-91b1-3c1bb4ca6519/Screenshot2018-12-17at17.51.50.jpg",
+					"image_url": "https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F050b48d0-3294-417d-91b1-3c1bb4ca6519%2FScreenshot2018-12-17at17.51.50.jpg"
+				}
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545040198645,
+				"id": "cf5928c1-3f17-4615-b6f4-9c7270859a3f",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545041094481,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"전입 초기에는 적응하느라 휴가 나가서만 코딩했었고, 좀 짬이 차면서 슬슬 코딩을 시작했다. 사무실 일하면서 배운 것들 TIL repo에 시간 날때마다 적어 놨고, 사지방에서 종종 코딩도 많이 했다. 1일 1커밋도 가능할 듯 싶었으나 이런 저런 이유 때문에 포기했다."
+						]
+					]
+				},
+				"type": "text",
+				"version": 376,
+				"inline_content": [
+					{
+						"Text": "전입 초기에는 적응하느라 휴가 나가서만 코딩했었고, 좀 짬이 차면서 슬슬 코딩을 시작했다. 사무실 일하면서 배운 것들 TIL repo에 시간 날때마다 적어 놨고, 사지방에서 종종 코딩도 많이 했다. 1일 1커밋도 가능할 듯 싶었으나 이런 저런 이유 때문에 포기했다."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041095948,
+				"id": "0ede5b27-2273-4650-a08c-0404894a94e4",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545041203003,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"한번 8월에서 9월 사이 보름 정도 현자타임이 와서 한동안 코딩을 안하다가 다시 동기 부여를 하고 꾸준하게 커밋을 하려고 했었다. 사실 로컬에서 커밋하고 안 올린 토이 프로젝트가 엄청 많고, 올렸다가 지운 repo도 몇몇 있어서 실제로는 훨씬 많을 듯"
+						]
+					]
+				},
+				"type": "text",
+				"version": 301,
+				"inline_content": [
+					{
+						"Text": "한번 8월에서 9월 사이 보름 정도 현자타임이 와서 한동안 코딩을 안하다가 다시 동기 부여를 하고 꾸준하게 커밋을 하려고 했었다. 사실 로컬에서 커밋하고 안 올린 토이 프로젝트가 엄청 많고, 올렸다가 지운 repo도 몇몇 있어서 실제로는 훨씬 많을 듯"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041203018,
+				"id": "cdfcf9ff-9333-4043-ad60-37573807b0c3",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545041305279,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"10월에서 11월에는 NAVER해커톤 준비 때문에 커밋 수가 확 늘어났다. 처음으로 손 코딩과 설계부터 천천히 준비를 했지만 지금 돌이켜 보면 더 잘 준비할 수 있었는데 아쉽다."
+						]
+					]
+				},
+				"type": "text",
+				"version": 259,
+				"inline_content": [
+					{
+						"Text": "10월에서 11월에는 NAVER해커톤 준비 때문에 커밋 수가 확 늘어났다. 처음으로 손 코딩과 설계부터 천천히 준비를 했지만 지금 돌이켜 보면 더 잘 준비할 수 있었는데 아쉽다."
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041305576,
+				"id": "c3db9f87-c88f-4b42-adb9-b7959ba10e16",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545041368756,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"이전 코드들을 보면 어이없거나 부끄러운 코드들이 많은 걸 보면 꽤 열심히 느리지만 꾸준히 잘 해온 거 같다는 생각이 든다. 아직 멀었지만 :("
+						]
+					]
+				},
+				"type": "text",
+				"version": 195,
+				"inline_content": [
+					{
+						"Text": "이전 코드들을 보면 어이없거나 부끄러운 코드들이 많은 걸 보면 꽤 열심히 느리지만 꾸준히 잘 해온 거 같다는 생각이 든다. 아직 멀었지만 :("
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041378152,
+				"id": "2ed47fe8-e779-458e-ae24-71a1a23b2192",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545045045997,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Projects "
+						]
+					]
+				},
+				"type": "header",
+				"version": 122,
+				"inline_content": [
+					{
+						"Text": "Projects "
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545045201259,
+				"id": "9cf3c77b-4c3f-4a6e-aecc-88aab39e5e9a",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545045201259,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "divider",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545102538141,
+				"id": "4705bf37-d23a-416c-869e-131fa99e665d",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545102538141,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "text",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041391305,
+				"id": "11484959-9916-4089-b07a-f46b92a5f011",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545045448885,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Life In General #군생활👮‍♂️"
+						]
+					]
+				},
+				"type": "header",
+				"version": 61,
+				"inline_content": [
+					{
+						"Text": "Life In General #군생활👮‍♂️"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545045211655,
+				"id": "19a2aaf2-4de3-4e8d-8faa-1c2a1a9a39bc",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545045211655,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "divider",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"content": [
+					"ebc2768d-cb59-4c24-8941-73d67006cb08",
+					"0018243c-9114-435d-b149-5d9ff825626b",
+					"e2ea3ca7-99fa-4059-91d4-8ec5fc762294"
+				],
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545045159397,
+				"id": "b2691885-d8c6-45a8-ac62-d5db72f64287",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545102860040,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Power Lifting🏋️‍♂️ "
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 64,
+				"content_resolved": [
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545102719354,
+						"id": "ebc2768d-cb59-4c24-8941-73d67006cb08",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545102757653,
+						"parent_id": "b2691885-d8c6-45a8-ac62-d5db72f64287",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"Strength 루틴을 시작했다... BB식으로 깨작깨작 하던 걸 저반복 고중량으로!"
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 141,
+						"inline_content": [
+							{
+								"Text": "Strength 루틴을 시작했다... BB식으로 깨작깨작 하던 걸 저반복 고중량으로!"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545102512362,
+						"id": "0018243c-9114-435d-b149-5d9ff825626b",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103249428,
+						"parent_id": "b2691885-d8c6-45a8-ac62-d5db72f64287",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"2018년 초반 BP 77.5/SQ 90/DL 105  → 12.17 1RM BP 120/SQ 170/DL 180 "
+								],
+								[
+									"3대 470",
+									[
+										[
+											"b"
+										]
+									]
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 225,
+						"inline_content": [
+							{
+								"Text": "2018년 초반 BP 77.5/SQ 90/DL 105  → 12.17 1RM BP 120/SQ 170/DL 180 "
+							},
+							{
+								"Text": "3대 470",
+								"AttrFlags": 1
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545102860040,
+						"id": "e2ea3ca7-99fa-4059-91d4-8ec5fc762294",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545102876696,
+						"parent_id": "b2691885-d8c6-45a8-ac62-d5db72f64287",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"허리 디스크 증상이 있어서 지금은 쉬는 중"
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 51,
+						"inline_content": [
+							{
+								"Text": "허리 디스크 증상이 있어서 지금은 쉬는 중"
+							}
+						]
+					}
+				],
+				"inline_content": [
+					{
+						"Text": "Power Lifting🏋️‍♂️ "
+					}
+				]
+			},
+			{
+				"alive": true,
+				"content": [
+					"1b516698-7716-4d00-890a-4a4be8defcc7",
+					"fc849c1e-292f-41e9-b75d-75c3c73065a4"
+				],
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545045173655,
+				"id": "c581a286-c852-48e1-9a5e-1d937633cfb1",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545103272579,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"IT 동아리👨‍💻"
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 49,
+				"content_resolved": [
+					{
+						"alive": true,
+						"content": [
+							"f091a0e1-0e03-4430-b350-6f4e6ad599e5",
+							"28cdb9e3-eace-4e75-b922-1ce38933a1c7",
+							"575b53a8-a2c6-48e3-9054-1ddc1e015f77"
+						],
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545102940845,
+						"id": "1b516698-7716-4d00-890a-4a4be8defcc7",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103191520,
+						"parent_id": "c581a286-c852-48e1-9a5e-1d937633cfb1",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"프론트엔드 프레임워크 프로젝트 (일명 프3) 진행 중"
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 88,
+						"content_resolved": [
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545102955116,
+								"id": "f091a0e1-0e03-4430-b350-6f4e6ad599e5",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545103012108,
+								"parent_id": "1b516698-7716-4d00-890a-4a4be8defcc7",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"IE8 호환 가능한 UI 컴포넌트로 "
+										]
+									]
+								},
+								"type": "bulleted_list",
+								"version": 56,
+								"inline_content": [
+									{
+										"Text": "IE8 호환 가능한 UI 컴포넌트로 "
+									}
+								]
+							},
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545103025913,
+								"id": "28cdb9e3-eace-4e75-b922-1ce38933a1c7",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545103120531,
+								"parent_id": "1b516698-7716-4d00-890a-4a4be8defcc7",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"‣",
+											[
+												[
+													"p",
+													"bbb8c587-c533-4a95-be8b-bd9a4d9e0f77"
+												]
+											]
+										]
+									]
+								},
+								"type": "bulleted_list",
+								"version": 22
+							},
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545103131550,
+								"id": "575b53a8-a2c6-48e3-9054-1ddc1e015f77",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545103183140,
+								"parent_id": "1b516698-7716-4d00-890a-4a4be8defcc7",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"React IE8 Repo",
+											[
+												[
+													"a",
+													"https://github.com/ahnsv/react-ie8-component"
+												]
+											]
+										]
+									]
+								},
+								"type": "bulleted_list",
+								"version": 51,
+								"inline_content": [
+									{
+										"Text": "React IE8 Repo",
+										"Link": "https://github.com/ahnsv/react-ie8-component"
+									}
+								]
+							}
+						],
+						"inline_content": [
+							{
+								"Text": "프론트엔드 프레임워크 프로젝트 (일명 프3) 진행 중"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"content": [
+							"997b261d-914b-457e-b17b-2dfb6e824a00",
+							"db8e41bb-3ac0-4e74-8a8d-5a50ceab1ea6"
+						],
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103189533,
+						"id": "fc849c1e-292f-41e9-b75d-75c3c73065a4",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103275366,
+						"parent_id": "c581a286-c852-48e1-9a5e-1d937633cfb1",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"세미나"
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 47,
+						"content_resolved": [
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545103272400,
+								"id": "997b261d-914b-457e-b17b-2dfb6e824a00",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545103275356,
+								"parent_id": "fc849c1e-292f-41e9-b75d-75c3c73065a4",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"헬스 세미나"
+										]
+									]
+								},
+								"type": "bulleted_list",
+								"version": 20,
+								"inline_content": [
+									{
+										"Text": "헬스 세미나"
+									}
+								]
+							},
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545103275366,
+								"id": "db8e41bb-3ac0-4e74-8a8d-5a50ceab1ea6",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545103293736,
+								"parent_id": "fc849c1e-292f-41e9-b75d-75c3c73065a4",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"프3 프로젝트에서 느낀 점이나 문제 해결 과정 share예정"
+										]
+									]
+								},
+								"type": "bulleted_list",
+								"version": 87,
+								"inline_content": [
+									{
+										"Text": "프3 프로젝트에서 느낀 점이나 문제 해결 과정 share예정"
+									}
+								]
+							}
+						],
+						"inline_content": [
+							{
+								"Text": "세미나"
+							}
+						]
+					}
+				],
+				"inline_content": [
+					{
+						"Text": "IT 동아리👨‍💻"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"content": [
+					"cda999ea-c60d-4842-b227-9591a07dac00",
+					"4f45e783-15ac-4dad-b21c-0b0ab8ad517e",
+					"87ffc57b-e3ea-4c81-bc42-28adb98be1f2"
+				],
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545045284846,
+				"id": "5bca369e-2fe2-43e3-97e8-413927f7a60d",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545103320078,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"밴드 동아리 🎙"
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 34,
+				"content_resolved": [
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103301354,
+						"id": "cda999ea-c60d-4842-b227-9591a07dac00",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103315079,
+						"parent_id": "5bca369e-2fe2-43e3-97e8-413927f7a60d",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"부대 창설 행사 공연 "
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 64,
+						"inline_content": [
+							{
+								"Text": "부대 창설 행사 공연 "
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103306056,
+						"id": "4f45e783-15ac-4dad-b21c-0b0ab8ad517e",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103327896,
+						"parent_id": "5bca369e-2fe2-43e3-97e8-413927f7a60d",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"군무원 체육대회 공연"
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 43,
+						"inline_content": [
+							{
+								"Text": "군무원 체육대회 공연"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103320078,
+						"id": "87ffc57b-e3ea-4c81-bc42-28adb98be1f2",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103334697,
+						"parent_id": "5bca369e-2fe2-43e3-97e8-413927f7a60d",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"계룡학사 크리스마스 공연"
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 31,
+						"inline_content": [
+							{
+								"Text": "계룡학사 크리스마스 공연"
+							}
+						]
+					}
+				],
+				"inline_content": [
+					{
+						"Text": "밴드 동아리 🎙"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"content": [
+					"2274d2f9-30b6-4dfd-af1b-1932d4dd6a0f",
+					"c8b22c85-f226-45bc-bf36-7b1e3cde9149",
+					"eb977507-f904-40ba-8dd0-9c75589767ad",
+					"30550011-6b87-478b-a67c-b7b0445236a6",
+					"f66d0ab7-bdfc-4a72-b972-254ecff13e18",
+					"3c522f89-f2cc-4a03-9b2e-254779027e8d"
+				],
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545045387905,
+				"id": "79c391f3-2514-4684-9984-a5dfbc290e22",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545103814698,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"공군 공감 출연 🎥"
+						]
+					]
+				},
+				"type": "bulleted_list",
+				"version": 44,
+				"content_resolved": [
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103361176,
+						"id": "2274d2f9-30b6-4dfd-af1b-1932d4dd6a0f",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103451012,
+						"parent_id": "79c391f3-2514-4684-9984-a5dfbc290e22",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"공군지 3월호",
+									[
+										[
+											"a",
+											"http://afzine.co.kr/main/detailView?monthlySeq=464\u0026keyword=\u0026pageNumber=2"
+										]
+									]
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 32,
+						"inline_content": [
+							{
+								"Text": "공군지 3월호",
+								"Link": "http://afzine.co.kr/main/detailView?monthlySeq=464\u0026keyword=\u0026pageNumber=2"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103379566,
+						"id": "c8b22c85-f226-45bc-bf36-7b1e3cde9149",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103544794,
+						"parent_id": "79c391f3-2514-4684-9984-a5dfbc290e22",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"공감 - "
+								],
+								[
+									"병장이 알려주는 꿀팁 1화 냄새나는 전투복",
+									[
+										[
+											"a",
+											"https://www.youtube.com/watch?v=K2iIb4--zyI"
+										]
+									]
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 131,
+						"inline_content": [
+							{
+								"Text": "공감 - "
+							},
+							{
+								"Text": "병장이 알려주는 꿀팁 1화 냄새나는 전투복",
+								"Link": "https://www.youtube.com/watch?v=K2iIb4--zyI"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103475069,
+						"id": "eb977507-f904-40ba-8dd0-9c75589767ad",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103502016,
+						"parent_id": "79c391f3-2514-4684-9984-a5dfbc290e22",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"공군지 11월호",
+									[
+										[
+											"a",
+											"http://afzine.co.kr/main/detailView?monthlySeq=501\u0026keyword=\u0026pageNumber=1"
+										]
+									]
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 23,
+						"inline_content": [
+							{
+								"Text": "공군지 11월호",
+								"Link": "http://afzine.co.kr/main/detailView?monthlySeq=501\u0026keyword=\u0026pageNumber=1"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103570115,
+						"id": "30550011-6b87-478b-a67c-b7b0445236a6",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103596330,
+						"parent_id": "79c391f3-2514-4684-9984-a5dfbc290e22",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"병장이 알려주는 꿀팁 2화 군대예절",
+									[
+										[
+											"a",
+											"https://www.youtube.com/watch?v=zVkZIpxIXkw"
+										]
+									]
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 77,
+						"inline_content": [
+							{
+								"Text": "병장이 알려주는 꿀팁 2화 군대예절",
+								"Link": "https://www.youtube.com/watch?v=zVkZIpxIXkw"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"content": [
+							"654a73bb-e2a7-416b-a72e-3e2907a43be9"
+						],
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103597465,
+						"id": "f66d0ab7-bdfc-4a72-b972-254ecff13e18",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103814698,
+						"parent_id": "79c391f3-2514-4684-9984-a5dfbc290e22",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"입대하는 랩소디 - 보헤미안 랩소디 패러디",
+									[
+										[
+											"a",
+											"https://www.youtube.com/watch?v=i3cK_1v905E"
+										]
+									]
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 83,
+						"content_resolved": [
+							{
+								"alive": true,
+								"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"created_time": 1545103782692,
+								"id": "654a73bb-e2a7-416b-a72e-3e2907a43be9",
+								"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+								"last_edited_time": 1545103811705,
+								"parent_id": "f66d0ab7-bdfc-4a72-b972-254ecff13e18",
+								"parent_table": "block",
+								"properties": {
+									"title": [
+										[
+											"JTBC 뉴스룸에도 나왔다 이것땜에...",
+											[
+												[
+													"a",
+													"http://news.jtbc.joins.com/html/268/NB11742268.html"
+												]
+											]
+										]
+									]
+								},
+								"type": "bulleted_list",
+								"version": 70,
+								"inline_content": [
+									{
+										"Text": "JTBC 뉴스룸에도 나왔다 이것땜에...",
+										"Link": "http://news.jtbc.joins.com/html/268/NB11742268.html"
+									}
+								]
+							}
+						],
+						"inline_content": [
+							{
+								"Text": "입대하는 랩소디 - 보헤미안 랩소디 패러디",
+								"Link": "https://www.youtube.com/watch?v=i3cK_1v905E"
+							}
+						]
+					},
+					{
+						"alive": true,
+						"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"created_time": 1545103813351,
+						"id": "3c522f89-f2cc-4a03-9b2e-254779027e8d",
+						"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+						"last_edited_time": 1545103838964,
+						"parent_id": "79c391f3-2514-4684-9984-a5dfbc290e22",
+						"parent_table": "block",
+						"properties": {
+							"title": [
+								[
+									"병장이 알려주는 꿀팁 3화"
+								]
+							]
+						},
+						"type": "bulleted_list",
+						"version": 26,
+						"inline_content": [
+							{
+								"Text": "병장이 알려주는 꿀팁 3화"
+							}
+						]
+					}
+				],
+				"inline_content": [
+					{
+						"Text": "공군 공감 출연 🎥"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041466185,
+				"id": "15e5967d-8cf8-44f3-9a3c-99796e0504d9",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545041468836,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"TMI"
+						]
+					]
+				},
+				"type": "header",
+				"version": 14,
+				"inline_content": [
+					{
+						"Text": "TMI"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545103870852,
+				"id": "5158cf80-6801-41e9-a3da-f4b3d7af0636",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545103870852,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "divider",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041428329,
+				"id": "a7754d5b-8899-434f-882d-4fd336771408",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545041436752,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"properties": {
+					"title": [
+						[
+							"Overall"
+						]
+					]
+				},
+				"type": "header",
+				"version": 18,
+				"inline_content": [
+					{
+						"Text": "Overall"
+					}
+				]
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545103874695,
+				"id": "d8c857b0-57e2-4100-aa33-9bb424706eaa",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545103874695,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "divider",
+				"version": 4
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545041456930,
+				"id": "3a6a7224-ce6f-485c-aed9-9095304a0675",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545041456930,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "text",
+				"version": 5
+			},
+			{
+				"alive": true,
+				"created_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"created_time": 1545040959581,
+				"id": "2dd264a1-1d0f-4beb-83bb-a94a9898d617",
+				"last_edited_by": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+				"last_edited_time": 1545040959581,
+				"parent_id": "4ceee3ab-2dc7-4897-b9b2-c6850655cc3e",
+				"parent_table": "block",
+				"type": "text",
+				"version": 4
+			}
+		],
+		"title": "2018년 회고록 by 구닌",
+		"format_page": {
+			"page_cover": "/images/page-cover/gradients_8.png",
+			"page_cover_position": 0.4212,
+			"page_font": "",
+			"page_full_width": false,
+			"page_icon": "💪",
+			"page_small_text": false,
+			"page_cover_url": "https://www.notion.so/image/https:%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fgradients_8.png"
+		}
+	},
+	"Users": [
+		{
+			"email": "example1@makenotion.com",
+			"family_name": "Park",
+			"given_name": "Brian",
+			"id": "33e41f0b-9c5f-4241-9f62-3e90559ab8f2",
+			"locale": "",
+			"mobile_onboarding_completed": true,
+			"onboarding_completed": true,
+			"profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/82234322-0114-4439-bdf1-70a04f9ef8be/Brian_(1).png",
+			"time_zone": "America/Los_Angeles",
+			"version": 14
+		},
+		{
+			"email": "ahnsv@bc.edu",
+			"family_name": "Ahn",
+			"given_name": "Sangtae",
+			"id": "f2b7c3b6-6465-470d-990c-1676795ae0b7",
+			"locale": "",
+			"mobile_onboarding_completed": false,
+			"onboarding_completed": true,
+			"profile_photo": "https://lh5.googleusercontent.com/-GMsDKq2DMsQ/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iwYVQ_MNlNQkI8yqtAB6seDK_xyA/mo/photo.jpg?sz=50",
+			"time_zone": "",
+			"version": 3
+		},
+		{
+			"email": "example8@makenotion.com",
+			"family_name": "Last",
+			"given_name": "Simon",
+			"id": "e894aec7-c5cc-4aa2-8c20-fb602fa7777a",
+			"locale": "",
+			"mobile_onboarding_completed": true,
+			"onboarding_completed": true,
+			"profile_photo": "https://lh4.googleusercontent.com/-FA4Xb8SNeFY/AAAAAAAAAAI/AAAAAAAAACc/4XeWRkSIY3A/photo.jpg?sz=50",
+			"time_zone": "America/Los_Angeles",
+			"version": 14
+		}
+	],
+	"Tables": null
+}
